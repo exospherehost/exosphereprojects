@@ -1,6 +1,6 @@
 # Exosphere Projects
 
-This repository contains projects built on the [Exosphere](https://exosphere.ai) platform - a powerful framework for building AI-powered applications and workflows.
+This repository contains projects built on the [Exosphere](https://exosphere.host) platform - a powerful framework for building AI-powered applications and workflows.
 
 ## Projects
 
