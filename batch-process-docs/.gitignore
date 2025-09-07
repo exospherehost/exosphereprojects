@@ -1,0 +1,7 @@
+.venv
+batch_results
+logs
+failures
+__pycache__
+.env
+documents.csv

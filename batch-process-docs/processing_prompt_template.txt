@@ -1,0 +1,24 @@
+Please extract the following information from each document:
+
+1. Document title
+2. Main content/summary
+3. Key metadata (page count, word count, etc.)
+4. Any important dates or numbers mentioned
+5. Key topics or themes
+6. Author information (if available)
+
+Return the information in JSON format with the following structure:
+{
+    "title": "Document title",
+    "content": "Main content or summary",
+    "metadata": {
+        "pages": number,
+        "word_count": number,
+        "dates": ["date1", "date2"],
+        "numbers": ["number1", "number2"],
+        "topics": ["topic1", "topic2"],
+        "author": "author name if available"
+    }
+}
+
+Please ensure the extracted content is comprehensive and accurate.
