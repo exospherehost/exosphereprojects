@@ -17,15 +17,6 @@ flowchart LR
     E --> F[Database Write]
     E --> G[Failure Handling]
     G --> H[Failure CSV]
-    
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#e8f5e8
-    style E fill:#fff8e1
-    style F fill:#e3f2fd
-    style G fill:#ffebee
-    style H fill:#fce4ec
 ```
 
 ## Detailed Node Descriptions

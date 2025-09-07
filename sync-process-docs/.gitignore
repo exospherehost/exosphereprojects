@@ -1,0 +1,9 @@
+.venv
+failures
+output
+temp
+.env
+logs
+.env
+__pycache__
+documents.csv
